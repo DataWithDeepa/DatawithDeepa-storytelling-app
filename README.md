@@ -26,6 +26,23 @@ Welcome to the **DataWithDeepa Storytelling App** – your AI-powered assistant 
 | AI Logic    | Custom conversational modules        |
 | Hosting     | Firebase Hosting                    |
 
+## File Upload & Automated Insights
+
+Once a user uploads a dataset (e.g. `PropertyPrice_Data.csv`), the app automatically analyzes key features and generates insights using AI.
+
+###  Key Highlights:
+- Identifies strong correlations with target variable (`Sale_Price`)
+- Detects skewed distributions and outliers
+- Highlights impact of construction and remodel years
+- Differentiates patterns in pre- and post-2000 properties
+
+###  Screenshot:
+<img width="1210" height="791" alt="image" src="https://github.com/user-attachments/assets/88e1fd85-a3f6-4fe7-a6ba-37c4013b9aa1" />
+<img width="1207" height="777" alt="image" src="https://github.com/user-attachments/assets/327e3684-2033-4e21-ae05-b9fe880a4d4c" />
+
+
+
+
 ##  About the Creator  
 Created by **Deepa Pathak**, an educator-turned-data analyst passionate about blending analytics, emotional intelligence, and storytelling. This app is part of her portfolio showcasing innovative, student-friendly tools for global analytics roles.
 
