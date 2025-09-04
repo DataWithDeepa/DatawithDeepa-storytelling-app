@@ -1,4 +1,5 @@
-# DatawithDeepa-storytelling-app
+# DatawithDeepa-storytelling-App 
+App/Website link : https://datawithdeepa1.lovable.app/
 “An AI-powered storytelling app for data learners and educators.”
 # DataWithDeepa Storytelling App 🎙️📊
 
@@ -11,10 +12,15 @@ Welcome to the **DataWithDeepa Storytelling App** – your AI-powered assistant 
 - Designed for students, educators, and data enthusiasts
 
 ##  Screenshots
-<img width="602" height="806" alt="image" src="https://github.com/user-attachments/assets/1d947327-7e76-4f56-b500-22a0de1c81c9" />
-<img width="1678" height="917" alt="image" src="https://github.com/user-attachments/assets/f6c36974-632c-4999-adbe-67de8bc6c2fb" />
-<img width="1111" height="900" alt="image" src="https://github.com/user-attachments/assets/3aebd3df-079a-406b-bbe9-1ad1ee1517e7" />
-<img width="1483" height="622" alt="image" src="https://github.com/user-attachments/assets/596627ed-9f76-4f24-b839-3aff80174f5a" />
+<img width="1780" height="795" alt="image" src="https://github.com/user-attachments/assets/c7f1abd7-3515-4f58-9686-66c7d34fa06c" />
+<img width="660" height="900" alt="image" src="https://github.com/user-attachments/assets/a8c38e2f-1594-42d3-b9bf-83db2b4f6f42" />
+<img width="1161" height="910" alt="image" src="https://github.com/user-attachments/assets/f9c71e85-1989-42f9-913d-422907d54767" />
+<img width="1170" height="872" alt="image" src="https://github.com/user-attachments/assets/f6e58db7-c959-4eb9-97d1-62ba508d52f1" />
+<img width="1082" height="928" alt="image" src="https://github.com/user-attachments/assets/366e0756-a9fc-4dbd-b6fd-408efcc02177" />
+
+
+
+
 
 
 
